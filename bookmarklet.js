@@ -1,5 +1,5 @@
 javascript: fetch(
-  "https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js"
+  "https://cdn.jsdelivr.net/gh/atomisadev/edpuzzle-cheats@latest/script.js"
 )
   .then((r) => r.text())
   .then((r) => eval(r));

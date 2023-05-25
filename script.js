@@ -137,7 +137,7 @@ function openPopup(assignment) {
   <!DOCTYPE html>
   <head>
     <style>
-      * {font-family: "Lexend Deca"}
+      * {font-family: monospace;}
     </style>
     <script>
       var base_url = "${base_url}";
