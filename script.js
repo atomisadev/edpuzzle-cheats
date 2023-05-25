@@ -175,7 +175,7 @@ function openPopup(assignment) {
       <img src="${thumbnail}" height="108px">
     </div>
     <div id="title_div">
-      <p style="font-size: 16px"><b>${media.title}</b></h2>
+      <p style="font-size: 50px"><b>${media.title}</b></h2>
       <p style="font-size: 12px">Uploaded by ${
         media.user.name
       } on ${date.toDateString()}</p>
